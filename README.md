@@ -39,23 +39,3 @@ Here are some ideas to get you started:
 * **[DNS Toolkit](https://github.com/phani-kb/dns-toolkit)** - Go-based DNS blocklist/allowlist processing for privacy and filtering.
 * **[NVD Tool](https://github.com/phani-kb/nvd-tool)** - A Java-based tool for querying the National Vulnerability Database (NVD) with filtering capabilities.
 * **[Ham Radio Toolbox](https://github.com/phani-kb/ham-radio-toolbox)** - Open-source software for the amateur radio enthusiasts.
-
----
-<!--
----
-
-##  Featured Repositories
-
-- **[ham-radio-toolbox](https://github.com/phani-kb/ham-radio-toolbox)**  
-  A Python-based CLI to support the amateur radio community with useful tools and utilities.
-
-- **[nvd-tool](https://github.com/phani-kb/nvd-tool)**  
-  A Java CLI tool that fetches CVE and CPE data from NIST's NVD API, including CWE info from MITRE. :contentReference[oaicite:0]{index=0}
-
-- **[dns-toolkit](https://github.com/phani-kb/dns-toolkit)**  
-  A Go CLI for processing DNS blocklists and allowlists—resolving, consolidating, and generating sinkhole-ready outputs for tools like Pi-hole. :contentReference[oaicite:1]{index=1}
-
----
-
-⭐ From [phani-kb](https://github.com/phani-kb)
--->

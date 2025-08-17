@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 <!--
 ---
 
-##  GitHub Highlights
-![Stats](https://github-readme-stats.vercel.app/api?username=phani-kb&show_icons=true&hide=stars,contribs&theme=tokyonight) -->
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phani-kb&layout=compact&theme=tokyonight)
+##  GitHub Highlights  -->
+![Stats](https://github-readme-stats.vercel.app/api?username=phani-kb&show_icons=true&hide_rank=true&hide_title=true&hide=stars,contribs&theme=tokyonight&custom_title=Stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phani-kb&layout=compact&hide_title=true&theme=tokyonight&custom_title=Languages)
 
 <!--
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
